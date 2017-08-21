@@ -1,3 +1,7 @@
 venv
 __pycache__
+<<<<<<< HEAD
 *.pyc
+=======
+__pycache__/*
+>>>>>>> origin/master
